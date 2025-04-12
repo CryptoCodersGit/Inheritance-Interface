@@ -47,3 +47,7 @@ contract MyToken is ERC20 {
 🔹 مثال:
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 📌 نتیجه: پروژه حرفه‌ای، خوانا، قابل نگهداری و توسعه‌پذیر خواهد بود.
+
+
+
+https://www.youtube.com/@crypto-coders
